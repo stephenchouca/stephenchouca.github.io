@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://stephenchouca.github.io/</loc>
-      <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+      <loc>https://stephenchou.net/</loc>
+      <lastmod>2024-05-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
     <url>
-      <loc>https://stephenchouca.github.io/files/cv.pdf</loc>
-      <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+      <loc>https://stephenchou.net/files/cv.pdf</loc>
+      <lastmod>2024-05-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
 </urlset>
